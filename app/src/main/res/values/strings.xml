@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Intermediate1</string>
+    <string name="user_id">xxxxxxxxxxxxxxxxx</string>
+    <string name="language">Ubah Bahasa</string>
+    <string name="log_out">Log Out</string>
+    <string name="permssion">Kelola Izin</string>
+    <string name="settings">Settings</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_create">Create</string>
+    <string name="menu_settings">Settings</string>
+    <string name="rv_profileName">Candra Wiguna</string>
+    <string name="error_400">Format Email Salah</string>
+    <string name="error_401">Belum Terdaftar / Email atau Kata Sandi Salah</string>
+    <string name="error_load">Data Tidak Dapat Dimuat</string>
+    <string name="error_token_401">Akses Ditolak. Silahkan Login Kembali</string>
+    <string name="error_size_413">Ukuran Gambar Melewati Batas</string>
+    <string name="error_was_encountered">Terjadi Sebuah Error</string>
+    <string name="dummy_text">The quick brown fox jumps over the lazy dog</string>
+    <string name="info_permssion_denied">Izin Ditolak</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="email_hint">Email</string>
+    <string name="error_password_minimum">Jumlah Karakter Harus Lebih Dari 6</string>
+    <string name="password_hint">Password</string>
+    <string name="login_btn">Login</string>
+    <string name="register_btn">Register</string>
+    <string name="username_hint">Username</string>
+    <string name="mandatory_field">Email dan Password Wajib Diisi</string>
+    <string name="capture_failed">Gambar Gagal Diambil</string>
+    <string name="desc_input">Tulis Deskripsi</string>
+    <string name="submit_new">SUBMIT</string>
+    <string name="description_mandatory">Deskripsi Wajib Diisi</string>
+    <string name="story_succes">Story Berhasil Ditambahkan</string>
+
+
+</resources>
